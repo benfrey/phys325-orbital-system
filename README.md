@@ -4,7 +4,7 @@
 
 Project Assignment Outline PDF: [project_assignment.pdf](docs/project_assignment.pdf) </br>
 </br>
-This project relates to my CISC 480: Senior Capstone course because it was the most difficult assignment I worked on during my Methods of Computational Physics at the University of St. Thomas. As part of the Physics (B.S.) curriculum, this course involved elements of numerical estimation, including: the implementation of differential equations to model the motion of multiple bodies, Runge-Kutta 4th order technique for differential equation solving, and Object-Oriented prorgramming methodologies.
+This project relates to my CISC 480: Senior Capstone course because it was the most difficult assignment I worked on during my Methods of Computational Physics course at the University of St. Thomas. As part of the Physics (B.S.) curriculum, this course involved elements of computer science including: the implementation of differential equations to model the motion of multiple bodies, Runge-Kutta 4th order technique for differential equation solving, and Object-Oriented prorgramming methodologies.
 </br></br>
 NOTE: All code in this repository has been cleaned up since the completion of this course to be featured in my senior portfolio.
 
